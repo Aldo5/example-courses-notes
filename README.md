@@ -3,7 +3,7 @@
 Here goes my notes for the 'Diplomado de aplicaciones móviles'
 
 ##First Module
--MacOS
+-Mac
 -Constans and variables
 -Collections
 -Data types
